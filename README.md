@@ -11,3 +11,4 @@ Dotfiles for my hyprland catpuccin rice
 # Screenshoots
 ![screenshoot1](ss1.png "Screenshot 1")
 ![screenshoot1](ss2.png "Screenshot 2")
+![screenshoot1](ss3.png "Screenshot 3")
