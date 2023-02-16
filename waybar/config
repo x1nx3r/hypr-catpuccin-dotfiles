@@ -12,7 +12,6 @@
 
     "modules-left": [
         "wlr/workspaces",
-        "wlr/mode",
     ],
  
     "modules-center": [
