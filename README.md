@@ -1,5 +1,6 @@
 # hypr-catpuccin-dotfiles
 Dotfiles for my hyprland catpuccin rice
+All of the folder above goes to .config folder
 
 # Prerequisites :
 - hyprland (https://hyprland.org/) follow the wiki to install it or just get it from the AUR
@@ -9,6 +10,7 @@ Dotfiles for my hyprland catpuccin rice
 - hyprland catpuccin theme (https://github.com/catppuccin/hyprland) 
 - waybar-catpuccin-theme (https://github.com/catppuccin/waybar)
 - rofi-catpuccin-theme (https://github.com/catppuccin/rofi) 
+- kitty-catpuccin-theme (https://github.com/catppuccin/kitty)
 
 # Screenshoots
 ![screenshoot1](ss1.png "Screenshot 1")
