@@ -8,4 +8,6 @@ Dotfiles for my hyprland catpuccin rice
 - waybar-catpuccin-theme (https://github.com/catppuccin/waybar)
 - rofi-catpuccin-theme (https://github.com/catppuccin/rofi) 
 
+# Screenshoots
 ![screenshoot1](ss1.png "Screenshot 1")
+![screenshoot1](ss2.png "Screenshot 2")
