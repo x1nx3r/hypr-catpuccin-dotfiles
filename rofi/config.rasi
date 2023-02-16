@@ -1,0 +1,29 @@
+configuration {
+    font: "Envy Code R 10";
+    line-margin: 10;
+
+    display-ssh:    "";
+    display-run:    "";
+    display-drun:   "";
+    display-window: "";
+    display-combi:  "";
+    show-icons:     true;
+}
+
+
+//@theme "~/.config/rofi/nord.rasi"
+
+listview {
+	lines: 6;
+	columns: 2;
+}
+
+window {
+	width: 30%;
+}
+//@theme "/usr/share/rofi/themes/blue.rasi"
+//@theme "/home/x1nx3r/.local/share/rofi/themes/catppuccin-mocha.rasi"
+//@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
+//@theme "/home/x1nx3r/.local/share/rofi/themes/catppuccin-mocha.rasi"
+//@theme "/usr/share/rofi/themes/solarized_alternate.rasi"
+@theme "/home/x1nx3r/.local/share/rofi/themes/catppuccin-macchiato.rasi"
