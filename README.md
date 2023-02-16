@@ -1,6 +1,6 @@
 # hypr-catpuccin-dotfiles
 Dotfiles for my hyprland catpuccin rice
-All of the folder above goes to .config folder
+- All of the folder above goes to .config folder
 
 # Prerequisites :
 - hyprland (https://hyprland.org/) follow the wiki to install it or just get it from the AUR
